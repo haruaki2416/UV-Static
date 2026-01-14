@@ -1,4 +1,4 @@
-importScripts("/active/uv/uv.sw.js");
+importScripts('/active/uv.bundle.js');
 
 const sw = new UVServiceWorker();
 
